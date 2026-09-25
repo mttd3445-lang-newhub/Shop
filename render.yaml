@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: star-shop-bot
+    env: docker
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /health
+    autoDeploy: false
+    disk:
+      name: star-bot-data
+      mountPath: /app/data
+      sizeGB: 1
+    envVars:
+      - key: DISCORD_TOKEN
+        sync: false

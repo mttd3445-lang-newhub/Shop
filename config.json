@@ -1,0 +1,20 @@
+{
+  "token": "",
+  "guildId": "1459052227716190373",
+  "adminRoleId": "1552382344370069534",
+  "orderChannelId": "1552293312646488114",
+  "logChannelId": "1552293505500585984",
+  "shopName": "Star Shop",
+  "https://s.imgz.io/2026/09/11/file_00000000efdc82079bc287cfc8744acbdd9eb8baddda8f22.png",
+  "feePercent": 2.9,
+  "feeCap": 20,
+  "robuxRate": 1.15,
+  "robloxCookie": "",
+  "robloxUserId": 0,
+  "adminUserId": "841669006301855766",
+  "minStockAlert": 5,
+  "minRobuxAlert": 100,
+  "keyApiPort": 8787,
+  "keyApiHost": "0.0.0.0",
+  "keyHubUrl": "starrejoin993.markxhub883.workers.dev"
+}
